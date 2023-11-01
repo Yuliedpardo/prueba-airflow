@@ -70,6 +70,4 @@ Puedes crear tus propios operadores personalizados en el directorio `plugins/` p
 
 Este README proporciona un punto de partida para crear y ejecutar flujos de trabajo en Apache Airflow. ¡Explora más sobre Airflow y personaliza tus DAGs según tus necesidades!
 
----
 
-Este README es un punto de partida para crear un documento que explique el proceso de creación de código en Apache Airflow. Puedes personalizarlo según las necesidades específicas de tu proyecto y agregar más detalles o ejemplos según sea necesario.
